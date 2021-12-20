@@ -1,5 +1,5 @@
-- 👋 Hi, I’m... @Jesun Ahmed/Arya Ayman
-- 😵 I'm a student Of Developing...
+- 👋 Hi, I’m... @Jesun Ahmed
+- 😇 I'm a student Of Developing...
 - 👀 I’m interested in ... Python & Bash
 - 🌱 I’m currently learning ... Python
 - 📫 How to reach me ... jesunahmed692@gmail.com
